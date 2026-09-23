@@ -1,0 +1,130 @@
+AUFTRAGSVERARBEITUNGSVERTRAG
+
+zwischen
+
+Muster GmbH, Musterstraße 1, 12345 Musterstadt
+– im Folgenden „Auftraggeber" –
+
+und
+
+Beispiel IT-Dienste GmbH, Beispielweg 2, 54321 Beispielstadt
+– im Folgenden „Auftragsverarbeiter" –
+
+Dieser Vertrag ist ein frei erfundenes Beispiel für die Testumgebung des
+Projekts avv-checker und beschreibt kein tatsächliches Vertragsverhältnis.
+
+§ 1 Gegenstand, Dauer, Art und Zweck der Verarbeitung
+
+(1) Gegenstand der Verarbeitung ist der Betrieb einer
+Kundenverwaltungssoftware für den Auftraggeber gemäß der Leistungsbeschreibung
+in Anlage 1.
+
+(2) Die Dauer der Verarbeitung entspricht der Laufzeit des zwischen den
+Parteien geschlossenen Hauptvertrags über die Bereitstellung dieser Software.
+
+(3) Art und Zweck der Verarbeitung ergeben sich im Einzelnen aus Anlage 1
+dieses Vertrags und umfassen insbesondere die Speicherung, Anzeige und
+Aktualisierung von Kundendaten im Rahmen der Kundenverwaltung.
+
+(4) Die Art der personenbezogenen Daten umfasst gemäß Anlage 1 insbesondere
+Stammdaten, Kontaktdaten und Nutzungsdaten der Kundinnen und Kunden des
+Auftraggebers.
+
+(5) Die Kategorien betroffener Personen umfassen Kundinnen und Kunden sowie,
+soweit im Rahmen des Supports erforderlich, Beschäftigte des Auftraggebers.
+
+§ 2 Pflichten und Rechte des Auftraggebers
+
+Die Pflichten und Rechte des Verantwortlichen (Auftraggebers) richten sich
+nach diesem Vertrag sowie nach Art. 28 DSGVO. Der Auftraggeber bleibt für die
+Rechtmäßigkeit der Verarbeitung im Sinne des Art. 6 DSGVO verantwortlich und
+ist berechtigt, dem Auftragsverarbeiter jederzeit ergänzende Weisungen zu
+erteilen.
+
+§ 3 Weisungsgebundenheit
+
+Der Auftragsverarbeiter verarbeitet personenbezogene Daten nur auf
+dokumentierte Weisung des Auftraggebers, auch in Bezug auf die Übermittlung
+personenbezogener Daten an ein Drittland, es sei denn, er ist nach dem Recht
+der Union oder der Mitgliedstaaten zu einer abweichenden Verarbeitung
+verpflichtet; in einem solchen Fall teilt er dies dem Auftraggeber vorab mit,
+soweit das betreffende Recht eine solche Mitteilung nicht verbietet.
+
+§ 4 Vertraulichkeit
+
+Der Auftragsverarbeiter gewährleistet, dass sich alle zur Verarbeitung der
+personenbezogenen Daten befugten Personen zur Vertraulichkeit verpflichtet
+haben oder einer angemessenen gesetzlichen Verschwiegenheitspflicht
+unterliegen.
+
+§ 5 Technische und organisatorische Maßnahmen
+
+Der Auftragsverarbeiter ergreift alle gemäß Art. 32 DSGVO erforderlichen
+technischen und organisatorischen Maßnahmen. Die zum Zeitpunkt des
+Vertragsschlusses bestehenden Maßnahmen sind in Anlage 2 (TOM) dokumentiert
+und werden bei wesentlichen Änderungen fortgeschrieben.
+
+§ 6 Weitere Auftragsverarbeiter
+
+(1) Der Auftragsverarbeiter nimmt keinen weiteren Auftragsverarbeiter
+(Unterauftragsverarbeiter) ohne vorherige, gesonderte oder allgemeine
+schriftliche Genehmigung des Auftraggebers in Anspruch. Eine Liste der zum
+Vertragsschluss bereits eingesetzten Subunternehmer ist in Anlage 3
+aufgeführt.
+
+(2) Erteilt der Auftraggeber eine allgemeine schriftliche Genehmigung,
+informiert der Auftragsverarbeiter ihn rechtzeitig über beabsichtigte
+Änderungen in Bezug auf die Hinzuziehung oder Ersetzung weiterer
+Auftragsverarbeiter. Der Auftraggeber kann gegen eine solche Änderung
+innerhalb von vier Wochen nach Mitteilung Widerspruch einlegen.
+
+(3) Setzt der Auftragsverarbeiter einen weiteren Auftragsverarbeiter ein, so
+erlegt er diesem im Wege eines Vertrags dieselben Datenschutzpflichten auf,
+wie sie in diesem Vertrag zwischen dem Auftraggeber und dem
+Auftragsverarbeiter vereinbart sind.
+
+§ 7 Unterstützung bei Betroffenenrechten
+
+Der Auftragsverarbeiter unterstützt den Auftraggeber nach Möglichkeit mit
+geeigneten technischen und organisatorischen Maßnahmen dabei, seiner Pflicht
+zur Beantwortung von Anträgen auf Wahrnehmung der Rechte der betroffenen
+Person nachzukommen.
+
+§ 8 Unterstützung bei weiteren Pflichten des Auftraggebers
+
+Der Auftragsverarbeiter unterstützt den Auftraggeber unter Berücksichtigung
+der Art der Verarbeitung und der ihm zur Verfügung stehenden Informationen
+bei der Einhaltung der in Art. 32 bis 36 DSGVO genannten Pflichten,
+insbesondere durch die unverzügliche Meldung von Datenschutzverletzungen an
+den Auftraggeber, sobald diese ihm bekannt werden.
+
+§ 9 Löschung und Rückgabe personenbezogener Daten
+
+Nach Wahl des Auftraggebers löscht oder gibt der Auftragsverarbeiter alle
+personenbezogenen Daten nach Abschluss der Erbringung der
+Verarbeitungsleistungen zurück und löscht bestehende Kopien, soweit nicht
+nach dem Recht der Union oder der Mitgliedstaaten eine Verpflichtung zur
+weiteren Speicherung besteht.
+
+§ 10 Nachweis- und Kontrollrechte
+
+Der Auftragsverarbeiter stellt dem Auftraggeber alle erforderlichen
+Informationen zum Nachweis der Einhaltung der in diesem Vertrag
+niedergelegten Pflichten zur Verfügung und ermöglicht Überprüfungen,
+einschließlich Inspektionen, die vom Auftraggeber oder einem von diesem
+beauftragten Prüfer durchgeführt werden, und wirkt hieran mit.
+
+§ 11 Haftung, Laufzeit und Schlussbestimmungen
+
+(1) Die Haftung der Parteien richtet sich nach den gesetzlichen Vorschriften
+sowie den Regelungen des Hauptvertrags.
+
+(2) Dieser Vertrag tritt mit Unterzeichnung in Kraft und endet automatisch
+mit Beendigung des Hauptvertrags.
+
+(3) Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform.
+
+Anlage 1: Leistungsbeschreibung, Art und Zweck der Verarbeitung, Datenarten,
+Kategorien betroffener Personen
+Anlage 2: Technische und organisatorische Maßnahmen (TOM)
+Anlage 3: Liste der eingesetzten Unterauftragsverarbeiter
